@@ -1,9 +1,9 @@
 <?php
 
-namespace Ichynul\Configx\Tools;
+namespace Jjkkopq\Configx\Tools;
 
 use Encore\Admin\Facades\Admin;
-use Ichynul\Configx\ConfigxModel;
+use Jjkkopq\Configx\ConfigxModel;
 use Illuminate\Support\Arr;
 
 class Tree

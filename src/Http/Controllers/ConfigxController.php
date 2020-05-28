@@ -1,13 +1,13 @@
 <?php
 
-namespace Ichynul\Configx\Http\Controllers;
+namespace Jjkkopq\Configx\Http\Controllers;
 
 use Encore\Admin\Form\Field;
 use Encore\Admin\Form\Field\MultipleFile;
-use Ichynul\Configx\ConfigxModel;
-use Ichynul\Configx\Tools\Displayer;
-use Ichynul\Configx\Tools\Tool;
-use Ichynul\Configx\Tools\Updater;
+use Jjkkopq\Configx\ConfigxModel;
+use Jjkkopq\Configx\Tools\Displayer;
+use Jjkkopq\Configx\Tools\Tool;
+use Jjkkopq\Configx\Tools\Updater;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 

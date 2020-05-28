@@ -1,11 +1,11 @@
 <?php
 
-namespace Ichynul\Configx;
+namespace Jjkkopq\Configx;
 
 use Illuminate\Support\ServiceProvider;
 use Encore\Admin\Form;
 use Encore\Admin\Admin;
-use Ichynul\Configx\Field\TestText;
+use Jjkkopq\Configx\Field\TestText;
 
 class ConfigxServiceProvider extends ServiceProvider
 {

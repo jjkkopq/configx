@@ -1,14 +1,14 @@
 <?php
 
-namespace Ichynul\Configx\Tools;
+namespace Jjkkopq\Configx\Tools;
 
 use Encore\Admin\Facades\Admin;
 use Encore\Admin\Form\Field\Hidden;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Widgets\Tab as Wtab;
-use Ichynul\Configx\ConfigxModel;
-use Ichynul\Configx\Field\Outer;
-use Ichynul\Configx\FormWgt;
+use Jjkkopq\Configx\ConfigxModel;
+use Jjkkopq\Configx\Field\Outer;
+use Jjkkopq\Configx\FormWgt;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Arr;
 

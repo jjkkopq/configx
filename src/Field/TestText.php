@@ -1,6 +1,6 @@
 <?php
 
-namespace Ichynul\Configx\Field;
+namespace Jjkkopq\Configx\Field;
 
 use Encore\Admin\Form\Field\Text;
 

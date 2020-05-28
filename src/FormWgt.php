@@ -1,6 +1,6 @@
 <?php
 
-namespace Ichynul\Configx;
+namespace Jjkkopq\Configx;
 
 use Encore\Admin\Widgets\Form;
 

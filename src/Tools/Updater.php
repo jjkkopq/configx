@@ -1,10 +1,10 @@
 <?php
 
-namespace Ichynul\Configx\Tools;
+namespace Jjkkopq\Configx\Tools;
 
 use Encore\Admin\Form\Field;
 use Encore\Admin\Form\Field\MultipleFile;
-use Ichynul\Configx\ConfigxModel;
+use Jjkkopq\Configx\ConfigxModel;
 use Ichynul\RowTable\Field\Collect;
 use Illuminate\Http\Request;
 use Illuminate\Support\Arr;

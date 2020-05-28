@@ -1,11 +1,11 @@
 <?php
 
-namespace Ichynul\Configx\Tools;
+namespace Jjkkopq\Configx\Tools;
 
 use Encore\Admin\Form\Field\MultipleFile;
 use Encore\Admin\Form\Field\MultipleSelect;
-use Ichynul\Configx\Configx;
-use Ichynul\Configx\ConfigxModel;
+use Jjkkopq\Configx\Configx;
+use Jjkkopq\Configx\ConfigxModel;
 use Illuminate\Support\Arr;
 use Illuminate\Support\MessageBag;
 

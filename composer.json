@@ -1,5 +1,5 @@
 {
-    "name": "ichynul/configx",
+    "name": "jjkkopq/configx",
     "description": "laravel-admin extension configx",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Ichynul\\Configx\\": "src/"
+            "Jjkkopq\\Configx\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ichynul\\Configx\\ConfigxServiceProvider"
+                "Jjkkopq\\Configx\\ConfigxServiceProvider"
             ]
 
         }

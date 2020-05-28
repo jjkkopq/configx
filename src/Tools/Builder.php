@@ -1,14 +1,14 @@
 <?php
 
-namespace Ichynul\Configx\Tools;
+namespace Jjkkopq\Configx\Tools;
 
 use Encore\Admin\Form;
 use Encore\Admin\Form\Field\Html;
 use Encore\Admin\Form\Field\Radio;
 use Encore\Admin\Form\Field\Text;
 use Encore\Admin\Form\Field\Textarea;
-use Ichynul\Configx\Configx;
-use Ichynul\Configx\ConfigxModel;
+use Jjkkopq\Configx\Configx;
+use Jjkkopq\Configx\ConfigxModel;
 use Ichynul\RowTable\Table;
 use Ichynul\RowTable\TableRow;
 use Illuminate\Support\Arr;
