@@ -333,6 +333,8 @@ class Builder
             if ($value && count($values)) {
                 $field->value($values);
             }
+        } else if (in_array($etype, ['yes_or_no', 'radio_group'])) {
+            $field->value($value);
         } else {
             $field->fill([$rowname => $value]);
         }
