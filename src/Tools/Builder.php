@@ -334,6 +334,7 @@ class Builder
                 $field->value($values);
             }
         } else if (in_array($etype, ['yes_or_no', 'radio_group'])) {
+            // 1.8.0版本会有冲突
             $field->value($value);
         } else {
             $field->fill([$rowname => $value]);
